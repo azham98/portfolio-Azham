@@ -11,7 +11,7 @@ module.exports = {
   //extend untuk buat class css sendiri
     extend: {
       colors: {
-        primary: '#14b8a6',
+        primary: '#5FBB59',
         secondary: '#64748b',
         dark: '#0f172a',
       },
